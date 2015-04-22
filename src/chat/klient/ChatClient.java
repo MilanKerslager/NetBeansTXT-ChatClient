@@ -32,6 +32,7 @@ public class ChatClient {
                     break;
                 }
             }
+            System.out.println("Client ends now. Bye.");
             console.close();
             streamOut.close();
             socket.close();
@@ -39,5 +40,4 @@ public class ChatClient {
             Logger.getLogger(ChatClient.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-
 }
