@@ -1,5 +1,5 @@
 // Simple Chat client for console (no GUI).
-// Sends raw lines to the server (doe not handle UTF characters).
+// Sends raw lines to the server (does not handle UTF characters).
 // If "QUIT" on the line alone is written,
 //    client sends it to the server and then ends itself.
 
