@@ -3,7 +3,7 @@
 // If "QUIT" on the line alone is written,
 //    client sends it to the server and then ends itself.
 
-package chat.klient;
+package chat.client;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
