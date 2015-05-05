@@ -2,6 +2,7 @@
 // Sends raw lines to the server (does not handle UTF characters).
 // If "QUIT" on the line alone is written,
 //    client sends it to the server and then ends itself.
+// https://github.com/MilanKerslager/NetBeansTXT-ChatClient
 
 package chat.client;
 
